@@ -8,3 +8,5 @@ nbproject
 !dbdata/.gitkeep
 .env
 .phpunit.result.cache
+/bin/data/
+/compiled/

@@ -41,11 +41,6 @@ class ConfigProvider
             'invokables' => [
             ],
             'factories' => [
-                Handler\DemoJsonHandler::class => Handler\DemoJsonHandlerFactory::class,
-                DemoPageHandler::class => DemoPageHandlerFactory::class,
-                EntityManager::class => Entity\Manager\EntityManagerFactory::class,
-                ListProductsHandler::class => ListProductsHandlerFactory::class,
-
             ],
         ];
     }
