@@ -1,0 +1,10 @@
+.idea
+composer.phar
+clover.xml
+coveralls-upload.json
+phpunit.xml
+vendor/
+nbproject
+!dbdata/.gitkeep
+.env
+.phpunit.result.cache
